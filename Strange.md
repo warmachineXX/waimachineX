@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to 交大之光！
 
-You can use the [editor on GitHub](https://github.com/warmachineXX/waimachineX/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 组名 交大之光
+## 成员列表：
+### 2019112680陈海潮
+### 2019xxxxxx杨雄
+### 2019xxxxxx袁舒蕾
+### 2019xxxxxx闫坤
+### 2019xxxxxx张泽宇
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
