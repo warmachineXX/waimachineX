@@ -246,11 +246,13 @@ delay(500);
 ![image5](连接图.png)
 ![image6](遥控器.png)
 下载Arduino程序
-![image7](ard1.png)
+![image7](ard.png)
 打开 串口助手， 找个遥控 对红外一体接收头 按下 ， 串口助手就会显示 遥控每个按键的编码
 ![image8](ard2.png)
 
 
 ## 6、制作过程记录
+
+
 
 ## 7、凿物网制作教程的链接
