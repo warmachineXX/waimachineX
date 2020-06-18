@@ -28,6 +28,10 @@
 ![image2](模型展示2.png)
 ![image3](模型展示3.png)
 ![image4](模型展示4.png)
+
+3D模型文件已上传到Github仓库
+
+传送门https://github.com/warmachineXX/waimachineX
    
 ## 5、代码展示：
 
@@ -256,6 +260,9 @@ delay(500);
 所需材料清单如下：
 ![image9](材料.png)
 
+详细制作过程已上传至凿物网
+
+传送门https://zaowu.fun/p/5ee9af479c5fec674b690344
 
 
 ## 7、凿物网制作教程的链接
